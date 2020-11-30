@@ -1,0 +1,27 @@
+TODO:
+
+Question: Can we really use the stock market as an indicator for predicting a recession?
+
+TODO:
+  Countries:
+    US:
+      Nasdaq
+      NYSE
+    Japan
+      JPX
+    London
+      London Stock Exchange
+    China
+    European Union
+    Canada
+    India
+    Germany
+    Switzerland
+    South Korea
+    Australia
+      Australian Securities Exchange
+    Russia
+      Moscow Exchange
+
+1. Find GDP and Merge it with the recession (Quarterly)
+2. Pull together a each index index that are common, and plot the GDP, with the Stock index, and recession
