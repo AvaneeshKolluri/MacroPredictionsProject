@@ -25,3 +25,20 @@ TODO:
 
 1. Find GDP and Merge it with the recession (Quarterly)
 2. Pull together a each index index that are common, and plot the GDP, with the Stock index, and recession
+
+3 Feature Extraction Processes:
+  - Go off Correlation only (top 6)
+  - KBest Features(test = ANOVA, K = 4)
+  - PCA and/or LDA
+
+Tackling Models (3 Groups: Macro Only, Micro Only, All of the Data):
+  - Logistic Regression
+  - KNN
+  - SVM
+  - LSTM
+
+Compare 2 Countries:
+  - Canada
+  - Japan / China
+
+
