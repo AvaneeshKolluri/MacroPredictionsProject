@@ -41,3 +41,72 @@ Compare 2 Countries:
   - Japan / China
 
 
+
+Presentation:
+- Title
+
+- Main Question (Can we really use Stock Market Data and Macro Data as an indicator to predict Recession?)
+    - Which factors Contribute most to predicting a recession?
+    - Can Macro and Micro data solely predict a recession?
+    - Can we generalize America's model against other similar countries?
+    
+- Why this project and purpose?
+    - What is a Recession
+        - What Economists Define it as and what usually contributes to it
+    - Well studied and economists have counted indicators for many years, so by taking tis class, we wanted to try to see if it is even possible with ML
+    - COVID Times, so this was another curiosity
+    
+- Design and EDA (Preparation and Cleaning of Data)
+    - What features did we select?
+    - Why did we do monthly, and what did we do for Data that had NaN
+    - Got our data from the FRED API and Yahoo Finance
+    - Took Percent Change and why
+    - etc...
+    
+- Learn and Visualize the Trends and Distributions of our Data
+    - Add the Line Graphs and Histograms and talk about them
+    
+- Feature Extraction and Engineering
+    - Explain our 12 feature extraction processes and why and how we went about it
+    - Show the chart: Seperated for Micro Macro and RAW AND PERCENTAGES
+    - ANOVA, Correlation, PCA
+    - PCA Charts and Correlation Charts
+    
+- Model Selection:
+    - Varied Models (Logistic, Random Forest Ensemble and Decision Based, and SVM)
+    - Cross Validation
+    - Tuning the Hyperparameters
+    - Keeping the extraction techniques consistant for all models, so comparasion would be unbiased
+        - We kept all the tables aside, and fit and tested consistantly, so we kept the same design
+    
+- Results (US Results):
+    - Add the DataFrame picture
+    - Talk about the best performing model (Accuracy, false and true positives, AUC, ...)
+    - Explain why we think these outcomes happened
+    
+- Results (Canada Results):
+    - Using the Macro because Micro will vary
+    - Talk about why we cant generalize America's Model to other countries
+    
+- Conclusion
+    - Yes
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
