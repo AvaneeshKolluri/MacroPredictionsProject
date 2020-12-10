@@ -85,8 +85,13 @@ Presentation:
     - Explain why we think these outcomes happened
     
 - Results (Canada Results): (Thaenraj)
-    - Using the Macro because Micro will vary
+    - Using the Macro and Micro combination through ANOVA Extraction because this was the best performing model that shared the same features as oens that Canada offered
     - Talk about why we cant generalize America's Model to other countries
+      - Because each country has different factors that contribute to a recession, it did not perform very well
+    - We were not able to use the best performing model on canada because Canada does not report the 10Y-2Y rate, so we could not use that to predict on canada
+    - Need to discuss why we chose Canada
+      - We chose this country as we wanted to pick one that is similar to America and is a first world country tht has similar status to America etc...
+    - Predicted badly on the Canada data...
     
 - Conclusion (Mathew)
     - Yes
